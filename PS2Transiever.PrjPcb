@@ -89,67 +89,59 @@ GenerateClassCluster=0
 DocumentUniqueId=YSEHKKWK
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PS2Transiever\Design Rule Check - PS2Transiever.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for PS2Transiever\NC Drill\PS2Transiever-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PS2Transiever\NC Drill\PS2Transiever-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PS2Transiever\NC Drill\PS2Transiever.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PS2Transiever\NC Drill\PS2Transiever.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PS2Transiever\Gerber\PS2Transiever.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for PS2Transiever\PS2Transiever.xls
 DItemRevisionGUID=
 
 [Configuration1]
